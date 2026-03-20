@@ -1,1 +1,3 @@
 # Fundamentos-IA
+
+Atividades desenvolvidas
