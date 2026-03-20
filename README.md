@@ -1,6 +1,7 @@
 # Fundamentos-IA
 
 Atividades desenvolvidas da matéria Fundamentos de IA
+
 1° Arquivo - FiA_ChatBot_Conversacional_Jorge_Jr.ipynb
 Referente a Atividade: Desenvolvimento do Chatbot conversacional
 
